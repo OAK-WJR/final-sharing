@@ -1,0 +1,13 @@
+path: .
+train: images
+val: images
+names:
+  0: "DO_NOT_ENTER"
+  1: "DO_NOT_GO_AROUND"
+  2: "FAKE_STOP"
+  3: "GO_AROUND"
+  4: "NOT_YIELD"
+  5: "ONE_WAY_(left)"
+  6: "ONE_WAY_(right)"
+  7: "STOP"
+  8: "YIELD"
