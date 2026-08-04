@@ -51,3 +51,10 @@ worked on-car on real printed signs, so the domain gap is small but nonzero.
 - ONE_WAY left/right are mirror classes: do NOT use horizontal-flip
   augmentation when training on signs, and inverted signs are labeled by
   arrow direction, not text orientation.
+
+## Full-size archives
+
+The complete datasets (signs: 11700 train + 1300 val; racecar synthetic:
+all 6000 images) are attached to the
+[`datasets-v1` release](https://github.com/OAK-WJR/final-sharing/releases/tag/datasets-v1)
+as tarballs — too large for the repo tree.
